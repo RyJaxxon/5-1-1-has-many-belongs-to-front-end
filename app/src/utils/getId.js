@@ -4,4 +4,4 @@ const makeIdCounter = (id = 0) => {
 
 const getId = makeIdCounter();
 
-export default getId;
+export default getId; 
